@@ -29,7 +29,7 @@ public class spawnHawks : MonoBehaviour
     }
     public void PickLane()
     {
-        lane = UnityEngine.Random.Range(0, 2);
+        lane = UnityEngine.Random.Range(0, lanes.Length);
         Debug.LogWarning("Chose Lane");
     }
     public void SpawnHawk(int l)

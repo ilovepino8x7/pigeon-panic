@@ -4,6 +4,7 @@ public class pigeonMove : MonoBehaviour
 {
     public Rigidbody2D rb;
     public int jumpStrength;
+    public Transform[] paths;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -17,6 +18,8 @@ public class pigeonMove : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpStrength);
         }
+        transform.position = new Vector3(0, transform.position.y, 0);
+        transform.rotation = Quaternion.identity;
 
     }
 }
