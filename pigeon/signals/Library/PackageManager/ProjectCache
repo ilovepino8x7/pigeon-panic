@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638960473360000000
-    m_Hash: 2435158170
+      ticks: 638960491700000000
+    m_Hash: 3072510450
   m_LockFileStatus:
     m_FilePath: /Users/Tedski/Documents/GitHub/pigeon-panic/pigeon/signals/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638960473360000000
-    m_Hash: 3084034392
+      ticks: 638960491700000000
+    m_Hash: 1649318280
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,76 @@ m_LocalPackages:
 m_ProjectPath: /Users/Tedski/Documents/GitHub/pigeon-panic/pigeon/signals/Packages
 m_EditorVersion: 6000.0.46f1 (fb93bc360d3a)
 m_ResolvedPackages:
+- packageId: com.hestia.hackatime@https://github.com/unsaltedkale/unity-hackatime.git?path=/Assets/com.hestia.hackatime
+  testable: 0
+  isDirectDependency: 1
+  version: 1.2.0
+  source: 5
+  resolvedPath: /Users/Tedski/Documents/GitHub/pigeon-panic/pigeon/signals/Library/PackageCache/com.hestia.hackatime@574b3d3d2eec
+  assetPath: Packages/com.hestia.hackatime
+  name: com.hestia.hackatime
+  displayName: Unity HackaTime
+  author:
+    name: Hestia
+    email: 
+    url: 
+  category: Productivity
+  type: 
+  description: "HackaTime plugin for Unity \nMade by @Daniel-Geo and @unsaltedkale
+    with help from @taciturnaxolotl and @ImShyMike"
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - unity
+  - wakatime
+  - stats
+  - tracker
+  - programming
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: dbf2978b89f2453586af65b892198e3c9f6615d4
+    revision: HEAD
+  upmReserved: 
+  assetStore:
+    productId: 
+  fingerprint: 574b3d3d2eeca15c81f83dbd7caad752b38a5a71
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 
+    minimumUnityVersion: 2020.1.0a1
 - packageId: com.unity.collab-proxy@2.10.0
   testable: 0
   isDirectDependency: 1

@@ -9,6 +9,16 @@
     "/Applications/Unity/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.hestia.hackatime@https://github.com/unsaltedkale/unity-hackatime.git?path=/Assets/com.hestia.hackatime": {
+      "name": "com.hestia.hackatime",
+      "displayName": "Unity HackaTime",
+      "resolvedPath": "/Users/Tedski/Documents/GitHub/pigeon-panic/pigeon/signals/Library/PackageCache/com.hestia.hackatime@574b3d3d2eec",
+      "fingerprint": "574b3d3d2eeca15c81f83dbd7caad752b38a5a71",
+      "editorCompatibility": "2020.1.0a1",
+      "version": "1.2.0",
+      "source": "git",
+      "testable": false
+    },
     "com.unity.collab-proxy@2.10.0": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
