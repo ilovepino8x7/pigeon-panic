@@ -8,3 +8,5 @@
 Use UP arrow key to go up and DOWN arrow key to move down (pretty self-explanatory)
 
 ## Gameplay Footage
+
+### I only used AI to fix bugs when pushing my commits to Github
